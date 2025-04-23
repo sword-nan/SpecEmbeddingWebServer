@@ -6,4 +6,4 @@ numpy==1.26.4
 rdkit==2024.9.6
 seaborn==0.13.2
 streamlit==1.44.1
-torch==2.6.0
+torch==2.2.0
